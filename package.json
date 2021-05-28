@@ -1,0 +1,24 @@
+{
+  "name": "simple-node-webscrapper-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "leandro falcao",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leandro-falcao/simples-node-crawling.git"
+  },
+  "bugs": {
+    "url": "https://github.com/leandro-falcao/simples-node-crawling/issues"
+  },
+  "homepage": "https://github.com/leandro-falcao/simples-node-crawling#readme",
+  "dependencies": {
+    "puppeteer": "^9.1.1",
+    "readline-sync": "^1.4.10"
+  }
+}
